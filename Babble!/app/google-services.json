@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734408692013",
+    "project_id": "bingbong2-a54ea",
+    "storage_bucket": "bingbong2-a54ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734408692013:android:1cdb0f0b8774e69b5543a4",
+        "android_client_info": {
+          "package_name": "com.example.bingbong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734408692013-9s3g25r4cs69r0ads8ajv72jd5unpr1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1ef79J5YtcKIpNZZUPcdwoNBxt6YAls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734408692013-9s3g25r4cs69r0ads8ajv72jd5unpr1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BingBong2/app/src/main/res/drawable/button.xml" value="0.1755" />
+        <entry key="..\:/BingBong2/app/src/main/res/drawable/circle_bg.xml" value="0.193" />
+        <entry key="..\:/BingBong2/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" value="0.1755" />
+        <entry key="..\:/BingBong2/app/src/main/res/drawable/ic_camera.xml" value="0.203" />
+        <entry key="..\:/BingBong2/app/src/main/res/drawable/ic_send.xml" value="0.203" />
+        <entry key="..\:/BingBong2/app/src/main/res/drawable/recieve.xml" value="0.152" />
+        <entry key="..\:/BingBong2/app/src/main/res/drawable/send_btn.xml" value="0.203" />
+        <entry key="..\:/BingBong2/app/src/main/res/drawable/sent.xml" value="0.152" />
+        <entry key="..\:/BingBong2/app/src/main/res/drawable/showtime.xml" value="0.193" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/activity_authenticate.xml" value="0.152" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/activity_chat_screen.xml" value="0.2" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/activity_main.xml" value="0.128" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/activity_otpactivity.xml" value="0.152" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/activity_splash_screen.xml" value="0.19791666666666666" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/activity_user_profile.xml" value="0.144" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/chats_row_layout.xml" value="0.136" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/demo_layout.xml" value="0.2" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/fragment_calls_.xml" value="0.19791666666666666" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/fragment_chats_.xml" value="0.152" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/fragment_status_.xml" value="0.136" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/iteam_recieve.xml" value="0.152" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/iteam_recieve_msg.xml" value="0.2" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/iteam_sent.xml" value="0.264" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/iteam_sent_msg.xml" value="0.2" />
+        <entry key="..\:/BingBong2/app/src/main/res/layout/status_row_layout.xml" value="0.4" />
+        <entry key="..\:/BingBong2/app/src/main/res/menu/chatmenu.xml" value="0.19791666666666666" />
+        <entry key="..\:/BingBong2/app/src/main/res/menu/mymenu.xml" value="0.144" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
